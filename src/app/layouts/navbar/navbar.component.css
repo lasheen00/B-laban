@@ -1,0 +1,42 @@
+.logo img {
+    max-width: 100%;
+}
+
+.logo span{
+    font-size: 24px;
+    font-weight: 700;
+}
+img{
+    max-height: 40px;
+}
+
+.nav{
+    color: #fff !important;
+    transition: all 0.3s ease-in-out;
+}
+
+.navbar{
+    background-color: #0074D9;
+    color: #fff !important;
+}
+
+.navbar .nav-item  a {
+    font-size: 17px;
+    font-weight: 400;
+}
+
+ .btn button{
+    font-size: 17px;
+    font-weight: 400;
+    color: #fff !important;
+    background-color: #0074D9 !important;
+}
+
+ .btn:hover{
+    color: black !important;
+    background-color: #fff;
+    transition: all 0.3s ease-in-out;
+
+}
+
+

@@ -1,0 +1,70 @@
+.about-content h3{
+    font-size: 56px;
+    font-weight: 700;
+}
+
+.about-content p {
+    font-size: 28px;
+    font-weight: 500;
+    color: #BABABA;
+}
+
+.Commitment{
+    background-image:   url(../../../../public/Images/6o7a6253-done-4.jpg);
+    min-height: 50vh;
+    border-radius: 50%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed
+    
+}
+
+.commitment-quality .container{
+    justify-items: center;
+        padding: 50px 0;
+}
+
+.commitment-quality h2{
+    font-size: 72px;
+    font-weight: 700;
+    color: #0074D9;
+}
+
+.commitment-quality li{
+    font-size: 32px;
+    font-weight: 500;
+    color: #80BAEC;
+}
+
+.cta-button{
+        padding: 16px 26px;
+    font-size: 24px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+    background-color: #0074D9;
+    color: #fff;
+    border: none;
+}
+
+.Numbers {
+    padding: 50px 0;
+}
+
+.Numbers .col-md-5 {
+    background-color: #0074D9;
+    
+}
+
+.Numbers .IM,
+.Numbers .row img {
+
+    object-fit: cover;
+}
+
+.Numbers img {
+    max-width: 100%;
+    height: auto;
+}
+
+

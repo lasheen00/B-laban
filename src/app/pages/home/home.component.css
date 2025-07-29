@@ -1,0 +1,88 @@
+.Home h1{
+    font-size: 39.2px;
+    font-weight: 700;
+    color: #0057a3;
+}
+
+.Home{
+    background-color: #F3F3F3;
+}
+
+.Home p{
+font-size: 28px;
+font-weight: 500;
+color: #BABABA;
+
+}
+
+.hell{
+    margin-top: 150px;
+}
+
+.Home .btn-color1{
+    background-color: #0057a3;
+    color: #fff;
+    padding-right: 40px;
+    padding-left: 40px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.im img{
+    border-radius: 20px;
+    width: 100%;
+}
+
+.Core{
+    background-color: #0074D9;
+}
+
+.Core .card{
+    background-color: #0074D9;
+    border: none;
+    color: #fff;
+}
+
+.Core .card h4{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.Core .card h4 span{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.HEAD h2{
+    font-size: 44.8px;
+    font-weight: 700;
+}
+
+.Core P {
+    font-size: 24PX;
+    font-weight: 400;
+}
+
+.Core .HI  {
+    font-size: 17.8px;
+    font-weight: 40;
+}
+
+
+
+.Latest{
+    background-color: #0074D9;
+}
+
+.Latest h3{
+    font-size: 32px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.Latest p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+}

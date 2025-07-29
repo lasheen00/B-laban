@@ -1,0 +1,39 @@
+.Contact img{
+        object-fit: cover;
+    width: 612px;
+    height: 415px;
+    max-height: 100%;
+}
+
+.Contact h2{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.Contact p {
+    font-size: 20px;
+    font-weight: 300;
+    color: gray;
+    
+}
+
+.hiring{
+    margin-top: 60px;
+}
+.hiring img{
+            object-fit: cover;
+    width: 612px;
+    height: 636px;
+    max-height: 100%;
+}
+
+.hiring h2{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.hiring p {
+    font-size: 20px;
+    font-weight: 300;
+    color: gray;
+}
